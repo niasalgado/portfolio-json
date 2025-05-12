@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Blackjack App",
+    "image": "images/portfolio1.jpg",
+    "description": "An app with basic blackjack functionality."
+  },
+  {
+    "title": "Bartending Flashcard App",
+    "image": "images/portfolio2.jpg",
+    "description": "A flashcard app useful for anyone interested in learning how to make popular mixed drinks."
+  }
+]
