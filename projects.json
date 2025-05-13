@@ -2,11 +2,16 @@
   {
     "title": "Blackjack App",
     "image": "images/portfolio1.jpg",
-    "description": "An app with basic blackjack functionality."
+    "description": "An app with basic blackjack game functionality."
   },
   {
-    "title": "Bartending Flashcard App",
+    "title": "Taste Test",
     "image": "images/portfolio2.jpg",
     "description": "A flashcard app useful for anyone interested in learning how to make popular mixed drinks."
+  },
+  {
+    "title": "Travel Plans",
+    "image": "images/portfolio3.jpg",
+    "description": "An organization app, where users can view a list of every country in the world, view details of a selected country, add save countries to a list."
   }
 ]
